@@ -11,3 +11,7 @@ B. 3rd party libraries are always easier to learn than JavaScript.
 C. 3rd party libraries can be used to develop content and applications much faster than writing it all from scratch.
 
 D. 3rd party libraries provide platform-independent code that will behave identically in any browser.
+
+
+
+I choose C
